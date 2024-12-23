@@ -14,7 +14,6 @@ let refresh = (dimension) =>{
             if(Math.floor(opacity)==1){
                 opacity=0.3;
             }
-            
         }) 
         temp.style.width=sideLength + "px";
         temp.style.height=sideLength + "px";
